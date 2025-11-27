@@ -1,18 +1,22 @@
+Aqui está a versão completa em texto (Markdown). Você pode copiar tudo o que está dentro do bloco de código abaixo e colar direto no seu arquivo `README.md` no VS Code.
 
+Quando você subir para o GitHub, ele vai ficar formatado e organizado exatamente como você quer (com a árvore de arquivos alinhada).
+
+````markdown
 # Projeto Arena Legends – Scripts SQL
 
 Este repositório contém os arquivos SQL desenvolvidos para a Experiência Prática de Modelagem e Manipulação de Dados, utilizando MySQL como sistema gerenciador de banco de dados. O projeto implementa a criação, povoamento e manipulação de dados de um sistema de gestão para um jogo online competitivo (MOBA).
 
 ## Estrutura do Repositório
 
-
+```text
 Projeto ArenaLegends
 ├── 📂 01_create_tables.sql ...... Criação das tabelas
 ├── 📂 02_insert_data.sql ........ Inserts de dados
 ├── 📂 03_select_queries.sql ..... Consultas SQL
 ├── 📂 04_update_delete.sql ...... Updates e Deletes
 └── 💾 arenalegends.sql .......... Backup completo do banco
-
+````
 
 ## Descrição dos Arquivos
 
@@ -75,9 +79,10 @@ Serve como backup completo e pode ser utilizado para restaurar o projeto em outr
 
 No MySQL Workbench ou terminal:
 
-
+```sql
 CREATE DATABASE arena_legends;
 USE arena_legends;
+```
 
-
-
+```
+```
