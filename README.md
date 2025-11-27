@@ -1,6 +1,3 @@
-Aqui está a versão completa em texto (Markdown). Você pode copiar tudo o que está dentro do bloco de código abaixo e colar direto no seu arquivo `README.md` no VS Code.
-
-Quando você subir para o GitHub, ele vai ficar formatado e organizado exatamente como você quer (com a árvore de arquivos alinhada).
 
 ````markdown
 # Projeto Arena Legends – Scripts SQL
